@@ -21,12 +21,13 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 <ins>Open DB Quiz</ins>	2023
 - Fancy yourself a trivia master? Try out this quiz app, Built with TS, Styled Components, Open Trivia DB API and Redux Toolkit. 
 
-__Azure and OpenAI Image Generator__	2023
+<ins>Azure and OpenAI Image Generator</ins> 2023
 - Generate images from user-entered or AI-generated prompts. Next, Tailwind CSS, OpenAI’s APIs, Microsoft Azure Function App and blob storage.  
 
-__Budgie__	2023
+<ins>Budgie</ins> 2023
 - Losing track of your budget while travelling? Not anymore with Budgie.  A simple and intuitive budget tracker for travellers and ex-pats.  Automatically converts expenses into your chosen home currency. PostgreSQL, React, Express.
-__Okee-Dok-Eats__	2022
+
+<ins>Okee-Dok-Eats</ins> 2022
 - A food ordering experience for a single restaurant. Hungry customers can visit a restaurant's menu, select one or more dishes and place an order for pick-up. They will receive an SMS notification when their order is ready. Node, jQuery, SQL, Twilio, Express and  SASS.
 
 ## EDUCATION  &  CERTIFICATIONS
