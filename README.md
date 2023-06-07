@@ -18,11 +18,12 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## RECENT PROJECTS
 
-__Open DB Quiz__	2023
+<ins>Open DB Quiz</ins>	2023
 - Fancy yourself a trivia master? Try out this quiz app, Built with TS, Styled Components, Open Trivia DB API and Redux Toolkit. 
 
 __Azure and OpenAI Image Generator__	2023
-- Generate images from user-entered or AI-generated prompts. Next, Tailwind CSS, OpenAI’s APIs, Microsoft Azure Function App and blob storage.   
+- Generate images from user-entered or AI-generated prompts. Next, Tailwind CSS, OpenAI’s APIs, Microsoft Azure Function App and blob storage.  
+
 __Budgie__	2023
 - Losing track of your budget while travelling? Not anymore with Budgie.  A simple and intuitive budget tracker for travellers and ex-pats.  Automatically converts expenses into your chosen home currency. PostgreSQL, React, Express.
 __Okee-Dok-Eats__	2022
