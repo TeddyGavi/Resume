@@ -29,11 +29,11 @@ __Okee-Dok-Eats__	2022
 - A food ordering experience for a single restaurant. Hungry customers can visit a restaurant's menu, select one or more dishes and place an order for pick-up. They will receive an SMS notification when their order is ready. Node, jQuery, SQL, Twilio, Express and  SASS.
 
 ## EDUCATION  &  CERTIFICATIONS
-| Title Achieved                                                 |        |
-| -------------------------------------------------------------- | ------ |
-| Web Development Diploma / Lighthouse Labs                      |	2023  |
-| Red Seal Electrician / British Columbia Institue of Technology |  2018  |
-| Bachelor of Science / University of Saskatchewan	             |  2011  |
+| Title Achieved          | Institution                              |  Date  |
+| ------------------------------------------------------------------ | ------ |
+| Web Development Diploma | Lighthouse Labs                          |	2023  |
+| Red Seal Electrician    | British Columbia Institue of Technology  |  2018  |
+| Bachelor of Science     | University of Saskatchewan	             |  2011  |
 
 
 ## WORK  HISTORY
