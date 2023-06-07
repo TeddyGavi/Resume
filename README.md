@@ -30,7 +30,7 @@ __Okee-Dok-Eats__	2022
 
 ## EDUCATION  &  CERTIFICATIONS
 | Title Achieved          | Institution                              |  Date  |
-| ------------------------------------------------------------------ | ------ |
+| ----------------------- | ---------------------------------------- | ------ |
 | Web Development Diploma | Lighthouse Labs                          |	2023  |
 | Red Seal Electrician    | British Columbia Institue of Technology  |  2018  |
 | Bachelor of Science     | University of Saskatchewan	             |  2011  |
