@@ -50,7 +50,7 @@ Squamish, BC
 - Successfully executed projects within strict timelines and budgets, consistently completing them ahead of schedule and generating +3% above the project's profit margin.
 - Catalyzing the adoption of the waterfall methodology during installations, inspiring peers to become more efficient.
 - Conducted hundreds of QA tests, in collaboration with the Resort Muni. of Whistler, resulting in the mitigation of multiple public safety hazards. 
-<br>
+
 ### Wicks Electric
 __Apprentice Electrician/Project Lead__	Aug 2016 – Aug 2017
 Vancouver, BC
