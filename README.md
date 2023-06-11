@@ -57,32 +57,31 @@ Vancouver, BC
 
 - Developed client relationships while installing custom electrical fixtures by exceeding customer expectations through direct and clear communication, personally attaining multiple 5-star Google reviews.
 - Collaborated with BC Hydro Engineering to increase the electrical service capacity for a private animation studio, allowing the business to double its production capacity.
-<br>
+
 ### Bridge Electric Corp
 __Apprentice Electrician__ Mar 2016 - Aug 2016
 - Large-scale Commercial construction electrical work.
 - Skills: Commercial Construction · Project Management · Electrical Wiring · Electricity
-<br>
+
 ### Synergy Electrical Installations & Maintenance Ltd. 
 __Apprentice Electrician__ Aug 2015 - Mar 2016
 - Industrial control work, MCnabb Creek, Run of River project.Industrial control work, MCnabb Creek, Run of River project.
 - Skills: Communication · Electronics · Negotiation · Programmable Logic Controller (PLC) · Electrical Wiring
-<br>
+
 ### New World Electrical Ltd.
 __Apprentice Electrician__ Mar 2014 - Aug 2015
 - Custom Electrical service work, Mircom/Potter FA installation, residential/commercial Electrical construction.Custom Electrical service work, Mircom/Potter FA installation, residential/commercial Electrical construction.
 -  Skills: Fire Safety · Fire Alarm · Communication · Electrical Wiring · Electricity
-<br>
 
 ### Debrand 
 __Operational Specialist__ Mar 2013 - Aug 2013
 - Skills: Fashion · Environmental Awareness · Teamwork · CommunicationSkills: Fashion · Environmental Awareness · Teamwork · Communication
-<br>
+
 ### MEC 
 __Retail Sales Specialist__ Oct 2013 - Mar 2013
 - Frontline Staff
 - Skills: Sales · Sales Management · Product Management · Maintenance and Repair · Communication · Customer Relationship Management (CRM)
-<br>
+
 ### Meewasin Valley Authority 
 __Interpretation Officer__ Jun 2010 - Sep 2011
 - Skills: Customer Service · Time Management · Environmental Awareness · Communication · Customer Relationship Management (CRM) · Negotiation
