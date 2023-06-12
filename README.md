@@ -78,7 +78,7 @@ __Operational Specialist__ Mar 2013 - Aug 2013
 - Skills: Fashion · Environmental Awareness · Teamwork · CommunicationSkills: Fashion · Environmental Awareness · Teamwork · Communication
 
 ### MEC 
-__Retail Sales Specialist__ Oct 2013 - Mar 2013
+__Retail Sales Specialist__ Oct 2011 - Mar 2013
 - Frontline Staff
 - Skills: Sales · Sales Management · Product Management · Maintenance and Repair · Communication · Customer Relationship Management (CRM)
 
