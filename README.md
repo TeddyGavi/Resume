@@ -18,19 +18,19 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## RECENT PROJECTS
 
-[<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) 2023
+[<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) -- 2023
 - Mock Agency Landing Page. Taken Figma desgins provided by Front End Mentor through to completion. Built using semantic HTML5, CSS and minimal JavaScript
 
-[<ins>Open DB Quiz</ins>](https://quiz-ts-seven.vercel.app/)	2023
+[<ins>Open DB Quiz</ins>](https://quiz-ts-seven.vercel.app/) -- 2023
 - Fancy yourself a trivia master? Try out this quiz app, Built with TS, Styled Components, Open Trivia DB API and Redux Toolkit. 
 
-[<ins>Azure and OpenAI Image Generator</ins>](https://github.com/TeddyGavi/image-gen-azure) 2023
+[<ins>Azure and OpenAI Image Generator</ins>](https://github.com/TeddyGavi/image-gen-azure) -- 2023
 - Generate images from user-entered or AI-generated prompts. Next, Tailwind CSS, OpenAI’s APIs, Microsoft Azure Function App and blob storage.  
 
-[<ins>Budgie</ins>](https://github.com/TeddyGavi/budgie) 2023
+[<ins>Budgie</ins>](https://github.com/TeddyGavi/budgie) -- 2023
 - Losing track of your budget while traveling? Not anymore with Budgie.  A simple and intuitive budget tracker for travellers and ex-pats.  Automatically converts expenses into your chosen home currency. PostgreSQL, React, Express.
 
-[<ins>Okee-Dok-Eats</ins>](https://github.com/TeddyGavi/Okee-Dok-Eats) 2022
+[<ins>Okee-Dok-Eats</ins>](https://github.com/TeddyGavi/Okee-Dok-Eats) -- 2022
 - A food ordering experience for a single restaurant. Hungry customers can visit a restaurant's menu, select one or more dishes and place an order for pick-up. They will receive an SMS notification when their order is ready. Node, jQuery, SQL, Twilio, Express and  SASS.
 
 ## EDUCATION  &  CERTIFICATIONS
