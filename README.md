@@ -18,7 +18,13 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## RECENT PROJECTS
 
-[<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) -- 2023
+[<ins>Mountain Bike DAQ (WIP)</ins>](https://github.com/TeddyGavi/rn-ble) 2023
+- Current mountain biking DAQ (data acquisition) systems are prohibitively expensive and not Open Source.
+Ryan Walker of [Interrupt Labs](https://interruptlabs.ca/) and I decided to build our own. I handled the React Native App, while Ryan
+designed the [firmware](https://github.com/o7-machinehum/bike-daq).
+- Take a Look at the [YouTube Video](https://www.youtube.com/watch?v=SCmJ3pTyt44&t=73s)
+
+[<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) 2023
 - Mock Agency Landing Page. Taken Figma desgins provided by Front End Mentor through to completion. Built using semantic HTML5, CSS and minimal JavaScript
 
 [<ins>Open DB Quiz</ins>](https://quiz-ts-seven.vercel.app/) -- 2023
