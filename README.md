@@ -18,26 +18,35 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## RECENT PROJECTS
 
-[<ins>Mountain Bike DAQ (WIP)</ins>](https://github.com/TeddyGavi/rn-ble) 2023
-- Current mountain biking DAQ (data acquisition) systems are prohibitively expensive and not Open Source.
-Ryan Walker of [Interrupt Labs](https://interruptlabs.ca/) and I decided to build our own. I handled the React Native App, while Ryan
-designed the [firmware](https://github.com/o7-machinehum/bike-daq).
+[<ins>Mountain Bike DAQ (WIP)</ins>](https://github.com/TeddyGavi/rn-ble) -- 2023
+- An Expo React-Native app that collects suspension data from mountain bikes 
+- Created a local Zephyr RTOS development environment to debug and create custom C firmware code
+- Utilized react-native-ble-plx to gather data streamed over Bluetooth Low Energy from an Arduino
 - Take a Look at the [YouTube Video](https://www.youtube.com/watch?v=SCmJ3pTyt44&t=73s)
 
-[<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) 2023
-- Mock Agency Landing Page. Taken Figma desgins provided by Front End Mentor through to completion. Built using semantic HTML5, CSS and minimal JavaScript
+[<ins>Activist (Open-Source, non-profit activism platform)</ins>](https://github.com/activist-org/activist) -- 2023
+- A Nuxt/Django web application that provides a network for political activism.
+- Solved incorrect TypeScript configuration, improving the developer experience, and project infrastructure
+- Improved the ‘style guide’ and ‘contributing’ documentation by clarifying the notes on Docker and TypeScript 
 
-[<ins>Open DB Quiz</ins>](https://quiz-ts-seven.vercel.app/) -- 2023
-- Fancy yourself a trivia master? Try out this quiz app, Built with TS, Styled Components, Open Trivia DB API and Redux Toolkit. 
+[<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) -- 2023
+- Mock Agency Landing Page.
+- Took Figma designs provided by Front End Mentor
+- Self-imposed restriction of using as little JS as possible
+- Implmented checkbox "hack" to create a mobile-friendly and responsive dropdown menu with no JS!
 
 [<ins>Azure and OpenAI Image Generator</ins>](https://github.com/TeddyGavi/image-gen-azure) -- 2023
-- Generate images from user-entered or AI-generated prompts. Next, Tailwind CSS, OpenAI’s APIs, Microsoft Azure Function App and blob storage.  
+- A Next.js, Tailwind CSS and Microsoft Azure generative AI art application
+- Combined OpenAI’s Dall-e and ChatGPT APIs to generate prompts and create AI art
+- Built an Azure Cloud Function App with blob storage to store all the images
 
 [<ins>Budgie</ins>](https://github.com/TeddyGavi/budgie) -- 2023
-- Losing track of your budget while traveling? Not anymore with Budgie.  A simple and intuitive budget tracker for travellers and ex-pats.  Automatically converts expenses into your chosen home currency. PostgreSQL, React, Express.
+- A PERN travel budget tracker 
+- Built an ERD and PostgreSQL database to hold currency information, users and expenses
+- Developed a RESTful Express API with full CRUD capabilities
+- Used React’s context API to persist logged-in users through browser refresh
 
-[<ins>Okee-Dok-Eats</ins>](https://github.com/TeddyGavi/Okee-Dok-Eats) -- 2022
-- A food ordering experience for a single restaurant. Hungry customers can visit a restaurant's menu, select one or more dishes and place an order for pick-up. They will receive an SMS notification when their order is ready. Node, jQuery, SQL, Twilio, Express and  SASS.
+
 
 ## EDUCATION  &  CERTIFICATIONS
 | Title Achieved          | Institution                              |  Date  |
@@ -76,8 +85,8 @@ __Apprentice Electrician__ Aug 2015 - Mar 2016
 
 ### New World Electrical Ltd.
 __Apprentice Electrician__ Mar 2014 - Aug 2015
-- Custom Electrical service work, Mircom/Potter FA installation, residential/commercial Electrical construction.Custom Electrical service work, Mircom/Potter FA installation, residential/commercial Electrical construction.
--  Skills: Fire Safety · Fire Alarm · Communication · Electrical Wiring · Electricity
+- Custom Electrical Service work, Mircom/Potter FA installation, residential/commercial Electrical construction.Custom Electrical service work, Mircom/Potter FA installation, residential/commercial Electrical construction.
+- Skills: Fire Safety · Fire Alarm · Communication · Electrical Wiring · Electricity
 
 ### Debrand 
 __Operational Specialist__ Mar 2013 - Aug 2013
