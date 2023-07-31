@@ -7,7 +7,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## PROFESSIONAL  SUMMARY
 
-> A career-switcher, a software engineer with a decade of experience installing and documenting complex electrical systems. Grit and precision are foundational professional skills. Utilizing strong problem-solving and collaboration skills, I corrected misconfigured TypeScript settings for activist.org, creating 50+ actionable issues and providing ongoing project support ensuring a type-safe codebase. Driven by continuous self-improvement I leveraged Docker and GitHub Actions to create a template repo that will build and deploy a blog to Github Pages in 3 steps.
+> A career-switcher, a software engineer with a decade of experience installing and documenting complex electrical systems. Grit and precision are foundational professional skills. Utilizing strong problem-solving and collaboration skills, I corrected misconfigured TypeScript settings for activist.org, creating 50+ actionable issues and providing ongoing project support ensuring a type-safe codebase. Driven by continuous self-improvement I recently leveraged Docker and GitHub Actions to create a template repo that will build and deploy a blog to Github Pages in 3 steps.
 
 ## SKILLS
 
