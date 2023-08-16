@@ -7,7 +7,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## PROFESSIONAL  SUMMARY
 
-> A career-switcher, a software engineer with a decade of experience installing and documenting complex electrical systems. Grit and precision are foundational professional skills. Utilizing strong problem-solving and collaboration skills, I corrected misconfigured TypeScript settings for activist.org, creating 50+ actionable issues and providing ongoing project support ensuring a type-safe codebase. Driven by continuous self-improvement I recently leveraged Docker and GitHub Actions to create a template repo that will build and deploy a blog to Github Pages in 3 steps.
+> A software engineer with a decade of experience installing and documenting complex electrical systems. Utilizing strong problem-solving and collaboration skills, I implement successful front-end and back-end solutions. I am exploring AI/ML to provide solutions in an unbiased way. 
 
 ## SKILLS
 
@@ -26,7 +26,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 [<ins>Activist (Open-Source, non-profit activism platform)</ins>](https://github.com/activist-org/activist) -- 2023
 - A Nuxt/Django web application that provides a network for political activism.
-- Solved incorrect TypeScript configuration, improving the developer experience, and project infrastructure
+- Corrected misconfigured TypeScript settings for activist.org, creating 50+ actionable issues and providing ongoing project support ensuring a type-safe codebase. 
 - Improved the ‘style guide’ and ‘contributing’ documentation by clarifying the notes on Docker and TypeScript 
 
 [<ins>SunnySide</ins>](https://teddygavi.github.io/FEM-sunnyside-landing-page/) -- 2023
