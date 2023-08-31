@@ -7,7 +7,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## PROFESSIONAL  SUMMARY
 
-> A software engineer with a decade of experience installing and documenting complex electrical systems. Utilizing strong problem-solving and collaboration skills, I implement successful front-end and back-end solutions. I am exploring AI/ML to provide solutions in an unbiased way. 
+> A software engineer with a decade of experience installing and documenting complex electrical systems. I am a skilled problem-solver and agile collaborator adept at implementing full-stack solutions. Currently, I am contributing to Open-source NPOs while exploring AI/ML. 
 
 ## SKILLS
 
