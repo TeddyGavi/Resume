@@ -12,7 +12,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 ## SKILLS
 
 - Languages/MarkUp: - JavaScript - TypeScript - Ruby - HTML5 - CSS3
-- Frameworks/Libraries/Tech: - Nextjs - React - Nodejs - Express - Rails - jQuery - Vue - Nuxt - Tailwind - BootStrap
+- Frameworks/Libraries/Tech: - Nextjs - React - Nodejs - Express - Nestjs - Rails - jQuery - Vue - Nuxt - Tailwind - BootStrap
 - Database/CMS: - Sanity.io - PostgreSQL - Firebase 
 - Testing: - Jest - Mocha/Chai - StoryBook - Cypress
 
