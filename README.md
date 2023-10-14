@@ -58,6 +58,14 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## WORK  HISTORY
 
+### Lighthouse Labs
+__Web Development Apprentice Mentor__ Aug 2023 - Present
+Remote
+
+- Assist students and groups of students with coursework, assignments and materials offering guidance by asking open-ended questions in a supportive environment resulting in improved comprehension of course materials.   
+- Remained up-to-date on the current curriculum facilitating accurate and personalized mentorship to students. 
+
+
 ### Alta Lake Electric
 __Journeyperson Electrician__ Sep 2017 – Jun 2022
 Squamish, BC
