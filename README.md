@@ -63,7 +63,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 ## WORK  HISTORY
 
 ### Lighthouse Labs
-__Web Development Apprentice Mentor__ Aug 2023 - Present -
+__Web Development Apprentice Mentor__ Aug 2023 - Nov 2023 -
 Remote, Squamish, BC
 
 - Assist students and groups of students with coursework, assignments and materials offering guidance by asking open-ended questions in a supportive environment resulting in improved comprehension of course materials.   
