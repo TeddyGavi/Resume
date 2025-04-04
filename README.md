@@ -7,7 +7,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 ## PROFESSIONAL  SUMMARY
 
-> A software engineer with a decade of experience installing and documenting complex electrical systems. I am a skilled problem-solver and agile collaborator adept at implementing full-stack solutions. Currently, I am contributing to Open-source NPOs while exploring AI/ML. 
+> A software engineer with a decade of experience installing and documenting complex electrical systems. I am a skilled problem-solver and agile collaborator adept at implementing full-stack solutions. Currently, a Full-Stack Software Developer with Finnovate.io. 
 
 ## SKILLS
 
@@ -61,6 +61,13 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 
 
 ## WORK  HISTORY
+
+### Finnovate.io
+__Full-Stack Software Developer__ Jan 2024 - present
+Remote, Squamish, BC
+- Continuously manage business needs through purposeful software development in the Finance and Education sectors.
+- Optimized GraphQL queries, reducing homepage load time from ~6 seconds to ~600ms for a client’s RESP application.
+- Enhanced developer experience by leading codebase refactoring efforts and reducing average bundle size by ~200%, improving performance across all provided web applications for the largest client.
 
 ### Lighthouse Labs
 __Web Development Apprentice Mentor__ Aug 2023 - Nov 2023 -
