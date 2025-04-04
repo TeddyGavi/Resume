@@ -63,7 +63,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 ## WORK  HISTORY
 
 ### Finnovate.io
-__Full-Stack Software Developer__ Jan 2024 - present
+__Full-Stack Software Developer__ Jan 2024 - present -
 Remote, Squamish, BC
 - Continuously manage business needs through purposeful software development in the Finance and Education sectors.
 - Optimized GraphQL queries, reducing homepage load time from ~6 seconds to ~600ms for a client’s RESP application.
