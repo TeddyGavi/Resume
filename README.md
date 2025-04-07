@@ -66,7 +66,7 @@ matc.davis@gmail.com | [LinkedIn](https://www.linkedin.com/in/matcdavis/) | [Git
 __Full-Stack Software Developer__ Jan 2024 - present -
 Remote, Squamish, BC
 - Continuously manage business needs through purposeful software development in the Finance and Education sectors.
-- Optimized GraphQL queries, reducing homepage load time from ~6 seconds to ~600ms for a client’s RESP application.
+- Optimized GraphQL queries, reducing homepage load time from ~6 seconds to ~600ms for a client’s web application.
 - Enhanced developer experience by leading codebase refactoring efforts and reducing average bundle size by ~200%, improving performance across all provided web applications for the largest client.
 
 ### Lighthouse Labs
